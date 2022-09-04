@@ -27,7 +27,7 @@ function preload()
 {
 	bgImg = loadImage("bg.jpg");
 	ninjaImg = loadAnimation("ninja1.png","ninja2.png","ninja3.png","ninja4.png","ninja5.png","ninja6.png");
-	ninjaFireImg = loadAnimation("ninjafire1.png" , "ninjafire2.png" , "ninjafire3.png" , "ninjafire4.png" , "ninjafire5.png" , "ninjaFire6.png");
+	ninjaFireImg = loadAnimation("ninjafire1.png" , "ninjafire2.png" , "ninjafire3.png" , "ninjafire4.png" , "ninjafire5.png" , "ninjafire6.png");
 	birdImg = loadAnimation("bird1.png","bird2.png","bird3.png","bird4.png","bird5.png","bird6.png","bird7.png","bird8.png");
 	enemy1Img = loadImage("enemy1.png");
 	enemy2Img = loadImage("enemy2.png");
